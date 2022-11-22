@@ -1,0 +1,40 @@
+.container {
+     display: inline-flex;
+     padding-left: 50px;
+     flex-wrap:wrap;
+     margin-top: 10px;
+}
+.title {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: Poppins-Bold;
+  src: url('../fonts/poppins/Poppins-Bold.ttf'); 
+}
+.logout {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 15px;
+    color: #dff771;
+}
+.element {
+	text-align: center;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+/*     border-style: solid; */
+/*     border-width: 1px; */
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px black;
+    background-color: white;
+/*     opacity: 0.5; */
+}
+.drop {
+	height: 50px;
+	width: 290px;
+	border-radius: 40px;
+	padding-left: 60px;
+	background-color: white;
+	opacity: 0.9;
+}
