@@ -1,5 +1,7 @@
 @@ -0,0 +1,2 @@
-# crud_mvc_jee_project
-L’objectif principal de cet atelier et de maitriser les standards JEE « Servlet, JSP, Java Bean », via la mise en place d’une application web qui gère des commandes de plusieurs clients, l’application web développée doit respecter le patron de conception MVC.
-
+# crud_mvc_jpa_jee_project
+The main objective of this workshop is to master the JEE standards «Servlet, JSP, Java Bean»,
+through the implementation of a web application that manages orders from several customers, the application
+Developed web must respect the MVC design pattern.
+Tools: Eclipse, Maven, Tomcate, MySQL.
 
